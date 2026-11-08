@@ -1,0 +1,15 @@
+# Данные (чтобы не заливать тяжелые файлы в гит)
+data/raw/*.xlsx
+data/processed/*.csv
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кэш
+__pycache__/
+.ipynb_checkpoints/
+
+# ОС
+.DS_Store
+Thumbs.db
